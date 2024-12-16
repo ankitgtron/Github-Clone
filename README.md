@@ -161,8 +161,8 @@ Participants are encouraged to customize the user interface and incorporate addi
      - **Reading**: [Responsive Design Basics](https://tailwindcss.com/docs/responsive-design)  
      - **Video**: [Responsive Design with Tailwind](https://www.youtube.com/watch?v=FiGmAI5e91M)
   2. Implement error handling for API failures.  
-     - **Reading**: [Error Handling in React](https://reactjs.org/docs/error-boundaries.html)  
-     - **Video**: [Error Handling Best Practices](https://www.youtube.com/watch?v=aTPN5rF4Plc)
+     - **Reading**: [Error Handling in React](https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/)  
+     - **Video**: [Error Handling Best Practices](https://www.youtube.com/watch?v=_FuDMEgIy7I)
 
 - **Deliverables:**
   - Fully responsive and error-tolerant application.
