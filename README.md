@@ -134,7 +134,7 @@ Participants are encouraged to customize the user interface and incorporate addi
      - **Video**: [GitHub OAuth Setup](https://www.youtube.com/watch?v=EGQhP2PuowI)
   2. Secure environment variables using `.env`.  
      - **Reading**: [Environment Variables in Node.js](https://www.npmjs.com/package/dotenv)  
-     - **Video**: [Securing API Keys](https://www.youtube.com/watch?v=17UVejOw3zA)
+     - **Video**: [Securing API Keys](https://www.youtube.com/watch?v=KdFhoEvSAcM)
 
 - **Deliverables:**
   - Functional GitHub login and logout system.
