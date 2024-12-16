@@ -145,10 +145,10 @@ Participants are encouraged to customize the user interface and incorporate addi
 - **Tasks:**
   1. Fetch user profiles and repositories using GitHub API.  
      - **Reading**: [GitHub REST API](https://docs.github.com/en/rest)  
-     - **Video**: [Working with APIs in React](https://www.youtube.com/watch?v=ufodJVcpmps)
+     - **Video**: [Working with APIs in React](https://www.youtube.com/watch?v=Xhg-0mqxngA)
   2. Implement sorting functionality for repositories by stars, forks, and creation date.  
      - **Reading**: [Sorting in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)  
-     - **Video**: [Dynamic Sorting in JavaScript](https://www.youtube.com/watch?v=o48pSPJXwgs)
+     - **Video**: [Dynamic Sorting in JavaScript](https://www.youtube.com/watch?v=tweHT5jD8EM)
 
 - **Deliverables:**
   - User profiles and repository list with sorting functionality.
